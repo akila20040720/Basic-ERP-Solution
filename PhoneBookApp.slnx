@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="PhoneBookApp.AppHost/PhoneBookApp.AppHost.csproj" />
+  <Project Path="PhoneBookApp.Server/PhoneBookApp.Server.csproj" />
+</Solution>
